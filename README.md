@@ -100,3 +100,4 @@ Linkedin: https://www.linkedin.com/in/vitor-daniel-9343bb150/
 ## Agradecimentos
 
 Agradecemos aos professores pelo suporte oferecido para o progresso do projeto.
+# Equipe-Projeto-Integrador
